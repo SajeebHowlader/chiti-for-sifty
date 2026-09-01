@@ -18,15 +18,15 @@ Error generating stack: `+e.message+`
 
 আজ চিঠি দিবস, তাই ভাবলাম তোমাকে ছোট্ট একটা চিঠি লিখি।
 
-সব কথা সবসময় বলা হয় না,
+সব কথা সবসময় বলা হয় না
 আবার কিছু মানুষকে নিয়ে আলাদা করে কিছু লিখতেও ইচ্ছে করে।
 
-তুমি এমন একজন মানুষ,
-যার সাথে কথা বললে ভালো লাগে,
-হাসাহাসি করতে ভালো লাগে,
+তুমি এমন একজন মানুষ
+যার সাথে কথা বললে ভালো লাগে
+হাসাহাসি করতে ভালো লাগে
 আর ছোট ছোট মুহূর্তগুলোও somehow একটু বেশি memorable হয়ে যায়।
 
-জীবনে অনেক মানুষ আসে এবং চলে যায়,
+জীবনে অনেক মানুষ আসে এবং চলে যায়
 কিন্তু কিছু মানুষ কোনো না কোনোভাবে
 নিজেদের জন্য একটা সুন্দর জায়গা তৈরি করে ফেলে।
 
@@ -35,8 +35,8 @@ Error generating stack: `+e.message+`
 তাই আজকের এই ছোট্ট চিঠিটা
 শুধু তোমার জন্য।
 
-ভালো থেকো,
-হাসিখুশি থেকো,
+ভালো থেকো
+হাসিখুশি থেকো
 আর নিজের মতোই থেকো।
 
 — Sajeeb`;function Ou({open:e}){return(0,V.jsx)(du.div,{className:`envelope-wrap`,animate:e?{y:-4}:{y:[0,-7,0]},transition:{duration:e?.35:4,repeat:e?0:1/0,ease:`easeInOut`},children:(0,V.jsxs)(`div`,{className:`envelope ${e?`is-open`:``}`,children:[(0,V.jsxs)(`div`,{className:`letter-peek`,children:[(0,V.jsx)(`span`,{children:`for Sifty`}),(0,V.jsx)(Cu,{size:13,fill:`currentColor`})]}),(0,V.jsx)(`div`,{className:`envelope-back`}),(0,V.jsx)(`div`,{className:`envelope-front`}),(0,V.jsx)(`div`,{className:`envelope-flap`}),(0,V.jsx)(`div`,{className:`seal`,children:(0,V.jsx)(Cu,{size:15,fill:`currentColor`})})]})})}function ku(){let[e,t]=(0,y.useState)(!1),n=(0,y.useRef)(null);return(0,V.jsxs)(`main`,{children:[(0,V.jsx)(`div`,{className:`grain`}),(0,V.jsx)(`div`,{className:`orb orb-one`}),(0,V.jsx)(`div`,{className:`orb orb-two`}),(0,V.jsx)(`div`,{className:`particles`,"aria-hidden":`true`,children:Array.from({length:9},(e,t)=>(0,V.jsx)(`i`,{style:{"--i":t}},t))}),(0,V.jsxs)(`nav`,{children:[(0,V.jsxs)(`span`,{className:`nav-mark`,children:[`S`,(0,V.jsx)(`span`,{children:`✦`}),`S`]}),(0,V.jsxs)(`span`,{className:`nav-note`,children:[`Chithi Dibosh `,(0,V.jsx)(`em`,{children:`2026`})]})]}),(0,V.jsxs)(`section`,{className:`hero`,children:[(0,V.jsxs)(du.p,{className:`eyebrow`,initial:{opacity:0,y:12},animate:{opacity:1,y:0},transition:{duration:.7},children:[(0,V.jsx)(`span`,{}),` A small note, especially for you `,(0,V.jsx)(`span`,{})]}),(0,V.jsxs)(du.h1,{initial:{opacity:0,y:18},animate:{opacity:1,y:0},transition:{duration:.8,delay:.12},children:[`A Little Letter`,(0,V.jsx)(`br`,{}),`for `,(0,V.jsx)(`i`,{children:`Sifty`})]}),(0,V.jsxs)(du.p,{className:`subtitle`,initial:{opacity:0},animate:{opacity:1},transition:{duration:.8,delay:.3},children:[`Because some things are better`,(0,V.jsx)(`br`,{className:`mobile-break`}),` written than said.`]}),(0,V.jsx)(du.div,{initial:{opacity:0,scale:.94},animate:{opacity:1,scale:1},transition:{duration:.8,delay:.25},children:(0,V.jsx)(Ou,{open:e})}),(0,V.jsxs)(du.button,{className:`open-button`,onClick:()=>{t(!0),setTimeout(()=>n.current?.scrollIntoView({behavior:`smooth`,block:`center`}),420)},whileHover:{scale:1.035,y:-2},whileTap:{scale:.98},children:[(0,V.jsx)(wu,{size:17}),` `,e?`A Letter Awaits`:`Open the Letter`,` `,(0,V.jsx)(`span`,{children:`✉`})]}),(0,V.jsxs)(`div`,{className:`scroll-cue`,children:[(0,V.jsx)(`span`,{children:`scroll gently`}),(0,V.jsx)(Su,{size:14})]})]}),(0,V.jsxs)(`section`,{className:`letter-section`,ref:n,children:[(0,V.jsxs)(`div`,{className:`section-rule`,children:[(0,V.jsx)(`span`,{}),(0,V.jsx)(`span`,{children:`✦`}),(0,V.jsx)(`span`,{})]}),(0,V.jsx)(Oc,{children:e?(0,V.jsxs)(du.article,{className:`paper`,initial:{opacity:0,y:42,rotateX:-8},animate:{opacity:1,y:0,rotateX:0},transition:{duration:.9,ease:[.22,1,.36,1]},children:[(0,V.jsxs)(`div`,{className:`paper-top`,children:[(0,V.jsx)(`span`,{children:`চিঠি দিবস`}),(0,V.jsx)(`span`,{children:`✦`}),(0,V.jsx)(`span`,{children:`For Sifty`})]}),(0,V.jsx)(`div`,{className:`paper-content`,children:Du.split(`
